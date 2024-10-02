@@ -1,0 +1,282 @@
+l1 wt   
+l3 rad
+l1 rad
+l5 rad
+l1 mag
+
+l1 wt
+l3 wt
+l1 mag
+l3 mag
+l3 mean
+
+HH_L1_weight 0.5216926
+HH_L5_magnitude 0.16663209
+HH_L1_mean 0.1633473
+HH_L3_magnitude 0.14426778
+HH_L3_weight 0.13760485
+
+
+--------------------------------------------------
+DNN
+--------------------------------------------------
+Feature Importance (Descending Order):
+HH_L1_weight 0.5257349
+HH_L3_radius 0.3357485
+HH_L1_radius 0.1961603
+HH_L5_radius 0.18941312
+HH_L1_magnitude 0.18507607
+HH_L5_magnitude 0.1714952
+HH_L1_mean 0.15426719
+HH_L3_weight 0.14857976
+HH_L3_magnitude 0.14392939
+HH_L5_mean 0.121158525
+HH_L3_mean 0.11053288
+HH_L5_weight 0.059580646
+HH_L5_covariance 0.012067726
+HH_L3_covariance 0.0057762605
+HH_L3_std 0.0034125722
+HH_L5_std 0.0018940592
+HH_L1_std 0.00076742406
+HH_L3_pcc 6.9011094e-06
+HpHp_L0.01_pcc 4.3194514e-06
+HH_L5_pcc 1.1389517e-06
+Accuracy: 0.7106388807296753
+Sparsity: [0.0, 0.45, 0.9, 0.9, 0.95, 0.95, 1.0, 1.0, 1.0, 1.0, 1.0]
+Samples: 1000
+Execution time: 0.8981394742594825 hours
+
+--------------------------------------------------
+DNN
+--------------------------------------------------
+Feature Importance (Descending Order):
+HH_L1_weight 0.7985911
+HH_L3_weight 0.22685654
+HH_L1_magnitude 0.20728283
+HH_L3_magnitude 0.19801928
+HH_L3_mean 0.18214668
+HH_L5_mean 0.15783659
+HH_L1_mean 0.11880067
+HH_L5_magnitude 0.10723438
+HH_L5_weight 0.061987948
+HH_L5_radius 0.011497182
+HH_L3_radius 0.010861703
+HH_L1_radius 0.0046981
+HH_L5_std 0.0024227372
+HH_L3_std 0.0018729249
+HH_L1_std 0.0011957115
+HH_L3_covariance 0.0002108281
+HH_L5_covariance 0.00016684455
+HH_L3_pcc 7.666188e-06
+HpHp_L0.01_pcc 5.048719e-06
+HH_L5_pcc 1.2179406e-06
+Accuracy: 0.7278055548667908
+Sparsity: [0.0, 0.6, 0.85, 0.95, 0.95, 0.95, 0.95, 0.95, 1.0, 1.0, 1.0]
+Samples: 1000
+Execution time: 0.8908492142624326 hours
+
+--------------------------------------------------
+DNN
+--------------------------------------------------
+Feature Importance (Descending Order):
+HH_L1_weight 0.5216926
+HH_L5_magnitude 0.16663209
+HH_L1_mean 0.1633473
+HH_L3_magnitude 0.14426778
+HH_L3_weight 0.13760485
+HH_L5_mean 0.09552298
+HH_L5_weight 0.09476808
+HH_L1_magnitude 0.07253661
+HH_L3_mean 0.06543928
+HH_L1_radius 0.047772996
+HH_L3_radius 0.017526062
+HH_L5_radius 0.0106946565
+HH_L5_covariance 0.0015150061
+HH_L1_std 0.0014117359
+HH_L3_covariance 0.0010215181
+HH_L5_std 0.0008927851
+HH_L3_std 0.0008594007
+HH_L3_pcc 5.5435053e-06
+HpHp_L0.01_pcc 3.750638e-06
+HH_L5_pcc 1.1442276e-06
+Accuracy: 0.7131111025810242
+Sparsity: [0.0, 0.75, 0.95, 0.95, 0.95, 0.95, 1.0, 1.0, 1.0, 1.0, 1.0]
+Samples: 1000
+Execution time: 0.8990391447146734 hours
+--------------------------------------------------
+DNN
+--------------------------------------------------
+Feature Importance (Descending Order):
+HH_L1_weight 0.655845
+HH_L5_magnitude 0.22692375
+HH_L1_magnitude 0.16594382
+HH_L3_magnitude 0.15087585
+HH_L1_mean 0.14313331
+HH_L3_radius 0.13214841
+HH_L3_weight 0.121871665
+HH_L3_mean 0.110137366
+HH_L5_mean 0.0995625
+HH_L1_radius 0.095408335
+HH_L5_weight 0.08858558
+HH_L5_radius 0.06703718
+HH_L3_covariance 0.0019906596
+HH_L1_std 0.0017119593
+HH_L3_std 0.0016896271
+HH_L5_std 0.0009517409
+HH_L5_covariance 0.000829247
+HH_L3_pcc 7.666132e-06
+HH_L5_pcc 8.5482725e-07
+HpHp_L0.01_pcc 4.6966997e-07
+Accuracy: 0.7237499952316284
+Sparsity: [0.0, 0.6, 0.9, 0.95, 0.95, 0.95, 0.95, 1.0, 1.0, 1.0, 1.0]
+Samples: 100
+Execution time: 1.0188531354400847 hours
+
+
+
+--------------------------------------------------
+DNN
+--------------------------------------------------
+Feature Importance (Descending Order):
+HH_L1_weight 0.68079346
+HH_L3_magnitude 0.24940318
+HH_L3_weight 0.2418026
+HH_L3_mean 0.1909711
+HH_L5_magnitude 0.17782927
+HH_L5_mean 0.17140545
+HH_L1_mean 0.16028902
+HH_L3_radius 0.15760337
+HH_L1_magnitude 0.106192306
+HH_L5_radius 0.09042214
+HH_L5_weight 0.054925546
+HH_L1_radius 0.019074762
+HH_L5_covariance 0.0019817622
+HH_L3_covariance 0.001561175
+HH_L3_std 0.0013231187
+HH_L5_std 0.0011530368
+HH_L1_std 0.00093547313
+HpHp_L0.01_pcc 2.7334224e-06
+HH_L3_pcc 2.5573574e-06
+HH_L5_pcc 3.1238105e-07
+Accuracy: 0.7255277633666992
+Sparsity: [0.0, 0.55, 0.85, 0.95, 0.95, 0.95, 0.95, 1.0, 1.0, 1.0, 1.0]
+Samples: 500
+Execution time: 0.8838384133577347 hours
+
+
+--------------------------------------------------
+DNN
+--------------------------------------------------
+Feature Importance (Descending Order):
+HH_L3_radius 1.153448
+HH_L1_weight 0.72483677
+HH_L1_radius 0.6175613
+HH_L5_radius 0.39902624
+HH_L5_magnitude 0.2567924
+HH_L3_magnitude 0.23589176
+HH_L1_mean 0.23041704
+HH_L5_mean 0.21671104
+HH_L3_weight 0.19929197
+HH_L1_magnitude 0.19403628
+HH_L3_mean 0.12966314
+HH_L5_weight 0.06596151
+HH_L3_covariance 0.00887009
+HH_L3_std 0.0036451942
+HH_L5_std 0.003465073
+HH_L5_covariance 0.0021826704
+HH_L1_std 0.0013136608
+HpHp_L0.01_pcc 2.3901e-06
+HH_L3_pcc 8.881687e-07
+HH_L5_pcc 1.8802166e-07
+Accuracy: 0.714722216129303
+Sparsity: [0.0, 0.45, 0.6, 0.8, 0.85, 0.85, 0.85, 0.9, 0.95, 0.95, 0.95]
+Samples: 2500
+Execution time: 0.996358014676306 hours
+
+--------------------------------------------------
+DNN
+--------------------------------------------------
+Feature Importance (Descending Order):
+HH_L1_weight 0.55871505
+HH_L3_weight 0.19467394
+HH_L5_mean 0.15675828
+HH_L1_magnitude 0.11531743
+HH_L3_magnitude 0.11165155
+HH_L5_magnitude 0.10275447
+HH_L3_mean 0.09570185
+HH_L1_mean 0.058743626
+HH_L5_weight 0.05460303
+HH_L5_radius 0.011421823
+HH_L1_radius 0.009918858
+HH_L3_radius 0.0092877
+HH_L3_std 0.0020293389
+HH_L5_std 0.0020162354
+HH_L1_std 0.0012086338
+HH_L5_covariance 0.00021318255
+HH_L3_covariance 0.00012571676
+HpHp_L0.01_pcc 7.0380775e-06
+HH_L3_pcc 2.2830259e-06
+HH_L5_pcc 4.235126e-07
+Accuracy: 0.7240277528762817
+Sparsity: [0.0, 0.7, 0.95, 0.95, 0.95, 0.95, 1.0, 1.0, 1.0, 1.0, 1.0]
+Samples: 10000
+Execution time: 0.8833169825209511 hours
+
+--------------------------------------------------
+DNN
+--------------------------------------------------
+Feature Importance (Descending Order):
+HH_L3_weight 0.4814083
+HH_L5_weight 0.2789332
+HH_L5_magnitude 0.22567141
+HH_L5_mean 0.20546994
+HH_L3_magnitude 0.19862472
+HH_L3_mean 0.1516783
+HH_L1_mean 0.08344416
+HH_L5_covariance 0.005884882
+HH_L1_std 0.005453316
+HH_L3_std 0.004174662
+HH_L5_std 0.0034730725
+HH_L3_covariance 0.0022898703
+HpHp_L0.01_pcc 3.9490888e-06
+HH_L3_pcc 3.5565968e-06
+HH_L5_pcc 1.0463339e-06
+Accuracy: 0.6915000081062317
+Sparsity: [0.0, 0.6, 0.7333333333333333, 0.9333333333333333, 0.9333333333333333, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+Samples: 1000
+Execution time: 0.8698657308684455 hours
+
+
+--------------------------------------------------
+DNN
+--------------------------------------------------
+Feature Importance (Descending Order):
+HH_L3_mean 0.15173465
+HH_L5_weight 0.09591344
+HH_L1_std 0.0076769376
+HH_L3_covariance 0.0066691954
+HH_L5_covariance 0.0055897143
+HH_L3_std 0.004916884
+HH_L5_std 0.0022114583
+HpHp_L0.01_pcc 4.385992e-05
+HH_L3_pcc 1.8229759e-05
+HH_L5_pcc 3.780581e-06
+Accuracy: 0.6667500138282776
+Sparsity: [0.0, 0.9, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+Samples: 1000
+Execution time: 0.8587334294451607 hours
+
+
+--------------------------------------------------
+DNN
+--------------------------------------------------
+Feature Importance (Descending Order):
+HH_L1_std 2.9927967
+HH_L5_std 2.6865432
+HpHp_L0.01_pcc 0.0018369206
+HH_L3_pcc 0.00032742802
+HH_L5_pcc 3.3769164e-05
+Accuracy: 0.45508334040641785
+Sparsity: [0.0, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6, 0.6]
+Samples: 1000
+Execution time: 0.8371714667479198 hours

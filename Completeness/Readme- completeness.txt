@@ -1,0 +1,3 @@
+The dataset was too large to process within a reasonable time and memory constraints, making it impractical for our needs. Consequently, we decided to reduce the dataset size by selecting a representative sample. Specifically, we chose to use 24% of the total dataset, ensuring that this subset includes an even distribution of 4% from each of the six labels. This approach allows us to maintain the diversity and balance of the original dataset while significantly reducing the computational resources required for analysis.
+
+We used 20 samples for the N-BaIoT dataset and 50 samples for the mems dataset.

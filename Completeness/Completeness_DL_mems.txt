@@ -1,0 +1,122 @@
+---------------------------------------------------------------------------------
+Training the model
+ELAPSED TIME MODEL TRAINING: 0.00127870241800944 min
+Predicting using the model
+ELAPSED TIME MODEL PREDICTION: 0.00127870241800944 min
+Accuracy: 0.6074463154642361
+F1 Score: 0.5241937525640635
+Confusion Matrix:
+[[   0   47 1417]
+ [   0  919  806]
+ [   0  271 3013]]
+ROC AUC Score: 0.7111575452241924
+---------------------------------------------------------------------------------
+Training the model
+ELAPSED TIME MODEL TRAINING: 0.0012419382731119792 min
+Predicting using the model
+ELAPSED TIME MODEL PREDICTION: 0.0012419382731119792 min
+Accuracy: 0.06040475822647922
+F1 Score: 0.03964369991032085
+Confusion Matrix:
+[[ 278 1186    0]
+ [1612  113    0]
+ [1138 2146    0]]
+ROC AUC Score: 0.2398535963198428
+---------------------------------------------------------------------------------
+Training the model
+ELAPSED TIME MODEL TRAINING: 0.0012772679328918457 min
+Predicting using the model
+ELAPSED TIME MODEL PREDICTION: 0.0012772679328918457 min
+Accuracy: 0.08574076934960606
+F1 Score: 0.049814385231279346
+Confusion Matrix:
+[[ 493  971    0]
+ [1663   62    0]
+ [1654 1630    0]]
+ROC AUC Score: 0.30855142933496355
+y_axis_normal:  [0.99, 0.07, 0.03, 0.02, 0.02, 0.02, 0.02, 0.02, 0.02, 0.02, 0.02]
+(98, 100, [0.99, 0.07, 0.03, 0.02, 0.02, 0.02, 0.02, 0.02, 0.02, 0.02, 0.02])
+Number of normal samples that changed classification:  98
+Number of all samples analyzed:  100
+98.0 % - samples are complete 
+---------------------------------------------------------------------------------
+Training the model
+ELAPSED TIME MODEL TRAINING: 0.001247533162434896 min
+Predicting using the model
+ELAPSED TIME MODEL PREDICTION: 0.001247533162434896 min
+Accuracy: 0.0672022246253669
+F1 Score: 0.04444459193807776
+Confusion Matrix:
+[[ 185 1279    0]
+ [1475  250    0]
+ [ 885 2399    0]]
+ROC AUC Score: 0.2487317551036483
+---------------------------------------------------------------------------------
+Training the model
+ELAPSED TIME MODEL TRAINING: 0.0012989481290181478 min
+Predicting using the model
+ELAPSED TIME MODEL PREDICTION: 0.0012989481290181478 min
+Accuracy: 0.06766568824347288
+F1 Score: 0.0433159966347566
+Confusion Matrix:
+[[ 334 1130    0]
+ [1621  104    0]
+ [1281 2003    0]]
+ROC AUC Score: 0.3123841131547372
+
+
+
+
+
+---------------------------------------------------------------------------------
+Training the model
+ELAPSED TIME MODEL TRAINING: 0.0013131499290466309 min
+Predicting using the model
+ELAPSED TIME MODEL PREDICTION: 0.0013131499290466309 min
+Accuracy: 0.5921520160667387
+F1 Score: 0.5071950512350095
+Confusion Matrix:
+[[   0   46 1418]
+ [   0  816  909]
+ [   0  267 3017]]
+ROC AUC Score: 0.6471836739342102
+y_axis_normal:  [0.88, 0.18, 0.06, 0.06, 0.06, 0.06, 0.04, 0.04, 0.04, 0.04, 0.04]
+(48, 50, [0.88, 0.18, 0.06, 0.06, 0.06, 0.06, 0.04, 0.04, 0.04, 0.04, 0.04])
+Number of normal samples that changed classification:  48
+Number of all samples analyzed:  50
+96.0 % - samples are complete 
+
+---------------------------------------------------------------------------------
+Training the model
+ELAPSED TIME MODEL TRAINING: 0.0012946208318074545 min
+Predicting using the model
+ELAPSED TIME MODEL PREDICTION: 0.0012946208318074545 min
+Accuracy: 0.11370307430866677
+F1 Score: 0.06459154410753078
+Confusion Matrix:
+[[  78 1386    0]
+ [1067  658    0]
+ [ 437 2847    0]]
+ROC AUC Score: 0.2827915480207556
+y_axis_near_failure:  [0.92, 0.16, 0.1, 0.06, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.02]
+(49, 50, [0.92, 0.16, 0.1, 0.06, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.02])
+Number of near failure samples that changed classification:  49
+Number of all samples analyzed:  50
+98.0 % - samples are complete 
+---------------------------------------------------------------------------------
+Training the model
+ELAPSED TIME MODEL TRAINING: 0.0012917677561442057 min
+Predicting using the model
+ELAPSED TIME MODEL PREDICTION: 0.0012917677561442057 min
+Accuracy: 0.6281476904063031
+F1 Score: 0.5467893884404701
+Confusion Matrix:
+[[   0   69 1395]
+ [   0 1121  604]
+ [   0  339 2945]]
+ROC AUC Score: 0.7528993009029881
+y_axis_failure:  [0.98, 0.1, 0.1, 0.08, 0.04, 0.04, 0.04, 0.02, 0.02, 0.02, 0.02]
+(49, 50, [0.98, 0.1, 0.1, 0.08, 0.04, 0.04, 0.04, 0.02, 0.02, 0.02, 0.02])
+Number of failure samples that changed classification:  49
+Number of all samples analyzed:  50
+98.0 % - samples are complete 
