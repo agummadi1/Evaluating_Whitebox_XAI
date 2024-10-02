@@ -1,0 +1,106 @@
+Training the model
+ELAPSED TIME MODEL TRAINING: 0.001144580046335856 min
+Predicting using the model
+ELAPSED TIME MODEL PREDICTION: 0.001144580046335856 min
+Accuracy: 0.16111111111111112
+F1 Score: 0.044790626456294516
+Confusion Matrix:
+[[  0   0   0   0 252   0]
+ [  0   0   0   0 251   0]
+ [  3   0   0   0 225   0]
+ [  0   0   0   0 244   0]
+ [  0   0   0   0 232   0]
+ [  0   0   0   0 233   0]]
+ROC AUC Score: 0.4999965159319464
+y_axis_benign:  [0.0]
+Number of Benign samples that changed classification:  0
+Number of all samples analyzed:  1
+0.0% - samples are complete
+---------------------------------------------------------------------------------
+Training the model
+ELAPSED TIME MODEL TRAINING: 0.0009858250617980958 min
+Predicting using the model
+ELAPSED TIME MODEL PREDICTION: 0.0009858250617980958 min
+Accuracy: 0.16111111111111112
+F1 Score: 0.061935008745282155
+Confusion Matrix:
+[[  0   0   0   8 244   0]
+ [  0   0   0   0 251   0]
+ [226   0   0   0   2   0]
+ [  0   0   0   0 244   0]
+ [  0   0   0   0 232   0]
+ [231   0   0   0   2   0]]
+ROC AUC Score: 0.49946372307863335
+---------------------------------------------------------------------------------
+Training the model
+ELAPSED TIME MODEL TRAINING: 0.001161050796508789 min
+Predicting using the model
+ELAPSED TIME MODEL PREDICTION: 0.001161050796508789 min
+Accuracy: 0.25555555555555554
+F1 Score: 0.1929047823529266
+Confusion Matrix:
+[[125   0   0  91  36   0]
+ [  0   0   0 251   0   0]
+ [  1   0   0   1 226   0]
+ [  1   0   0 243   0   0]
+ [  0   0   0 232   0   0]
+ [  0   0   0   1 232   0]]
+ROC AUC Score: 0.5499753445975787
+y_axis_benign:  [-1.3, -1.3, 0.3, -1.0, -1.3, -1.3, -1.3, -1.3, 0.3, -1.3, 0.0, -1.3, 0.0, 0.3, 2.7, -2.3, 0.0, -1.3, -1.3, -1.3]
+Number of Benign samples that changed classification:  17
+Number of all samples analyzed:  20
+85.0% - samples are complete
+---------------------------------------------------------------------------------
+Training the model
+ELAPSED TIME MODEL TRAINING: 0.000911553700764974 min
+Predicting using the model
+ELAPSED TIME MODEL PREDICTION: 0.000911553700764974 min
+Accuracy: 0.17569444444444443
+F1 Score: 0.05460241820621748
+Confusion Matrix:
+[[  2 250   0   0   0   0]
+ [  0 251   0   0   0   0]
+ [  1 227   0   0   0   0]
+ [  1 243   0   0   0   0]
+ [  0 232   0   0   0   0]
+ [  0 233   0   0   0   0]]
+ROC AUC Score: 0.5008014314854797
+y_axis_gafgyt_combo:  [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Number of gafgyt_combo samples that changed classification:  0
+Number of all samples analyzed:  20
+0.0% - samples are complete
+
+
+y_axis_gafgyt_junk:  [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Number of gafgyt_junk samples that changed classification:  0
+Number of all samples analyzed:  20
+0.0% - samples are complete
+---------------------------------------------------------------------------------
+Training the model
+ELAPSED TIME MODEL TRAINING: 0.0009275515874226888 min
+Predicting using the model
+ELAPSED TIME MODEL PREDICTION: 0.0009275515874226888 min
+Accuracy: 0.0020833333333333333
+F1 Score: 0.001916970703486349
+Confusion Matrix:
+[[  1   0   2   0   0 249]
+ [  0   0   0   0   0 251]
+ [  0   8   0   0 218   2]
+ [  0   0   0   0   0 244]
+ [  0   0   0   0   0 232]
+ [  0   6   0   0 225   2]]
+ROC AUC Score: 0.40184432666607606
+y_axis_gafgyt_scan:  [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Number of gafgyt_scan samples that changed classification:  0
+Number of all samples analyzed:  20
+0.0% - samples are complete
+---------------------------------------------------------------------------------
+y_axis_gafgyt_tcp:  [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Number of gafgyt_tcp samples that changed classification:  0
+Number of all samples analyzed:  20
+0.0% - samples are complete
+---------------------------------------------------------------------------------
+y_axis_gafgyt_udp:  [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, -2.3, 1.0, 1.0, 1.0, 1.0, 1.0]
+Number of gafgyt_udp samples that changed classification:  20
+Number of all samples analyzed:  20
+100.0% - samples are complete
