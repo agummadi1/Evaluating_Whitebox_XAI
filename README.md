@@ -100,5 +100,3 @@ Inside the Completeness folder, run the required .py file (based on dataset & te
 <h4>Sample sparsity graph for MEMS dataset</h4>
 
 ![sparsity_mems](https://github.com/user-attachments/assets/2f6c5553-8459-4572-8bad-0ff090c5b20f)
-
-![image](https://github.com/agummadi1/Evaluating_XAI_Techniques/assets/154301345/d6a044c5-4b2c-4692-90bb-d3b254914659)
